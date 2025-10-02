@@ -19,11 +19,11 @@ The project is structured to demonstrate the complete incident response lifecycl
 
 | Folder | Description |
 |--------|-------------|
-| **`01_PHASE_1_FOUNDATION/`** | **Initial Setup & Architecture:** VM/Pi configuration, network base, VNC/SSH access, and resource optimization. |
-| **`02_PHASE_2_SIEM_TUNING/`** | **Detection Logic:** Custom Wazuh rules, decoders, and EDR configuration (FIM, Vulnerability Detection). |
-| **`03_PHASE_3_SOAR_INTEGRATION/`** | **Automation & Orchestration:** Setup of TheHive/Cortex and Shuffle playbooks for response. |
-| **`04_INCIDENT_CASES/`** | **Analyst Work:** Documented attack simulations, forensic findings, and SOAR outcome reports. |
-| **`99_TROUBLESHOOTING/`** | Common problems encountered and solutions (e.g., Elasticsearch JVM tuning, Static IP errors). |
+| **`PHASE_1_FOUNDATION/`** | **Initial Setup & Architecture:** VM/Pi configuration, network base, VNC/SSH access, and resource optimization. |
+| **`PHASE_2_SIEM_TUNING/`** | **Detection Logic:** Custom Wazuh rules, decoders, and EDR configuration (FIM, Vulnerability Detection). |
+| **`PHASE_3_SOAR_INTEGRATION/`** | **Automation & Orchestration:** Setup of TheHive/Cortex and Shuffle playbooks for response. |
+| **`INCIDENT_CASES/`** | **Analyst Work:** Documented attack simulations, forensic findings, and SOAR outcome reports. |
+| **`TROUBLESHOOTING/`** | Common problems encountered and solutions (e.g., Elasticsearch JVM tuning, Static IP errors). |
 
 ---
 
